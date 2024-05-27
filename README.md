@@ -1,5 +1,5 @@
 # Discord-Vanity-Checker
-A fast proxyless tool for checking the validation of discord vanities. https://discord.gg/gospel
+A fast proxyless tool for checking the validation of discord vanities.\nhttps://discord.gg/gospel
 
 # Required Packages
 [Python 3](https://www.python.org/downloads/)
